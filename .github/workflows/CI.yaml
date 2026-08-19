@@ -44,4 +44,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/sangram-7-cmd/python-app:latest
+          tags: ghcr.io/sangram-7-cmd/python-app:v2
